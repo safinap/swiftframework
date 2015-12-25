@@ -1,0 +1,8 @@
+<Event>
+<EventCode>D1-012</EventCode>
+<ProductName>FSCS limit reached</ProductName>
+<AccountNumber>AC1</AccountNumber>
+<Amount>10000000</Amount>
+<TransactionCode>000000002</TransactionCode>
+<EndDate>””</EndDate>
+</Event>

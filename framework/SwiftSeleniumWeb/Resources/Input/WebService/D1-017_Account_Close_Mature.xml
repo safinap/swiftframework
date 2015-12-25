@@ -1,0 +1,19 @@
+<Event>
+<EventCode>D1-017</EventCode>
+<ProductName>Account Close/Mature</ProductName>
+<AccountNumber>1</AccountNumber>
+<Amount>""</Amount>
+<TransactionCode>1234565</TransactionCode>
+<EndDate>""</EndDate>
+<HoursLeft>""</HoursLeft>
+<ExeededAmount>""</ExeededAmount>
+<OriginatingBank>""</OriginatingBank>
+<ExternalBankDetails>""</ExternalBankDetails>
+<InvitationCode>""</InvitationCode>
+<DeviceType>""</DeviceType>
+<DeviceId>""</DeviceId>
+<MemberNumber>""</MemberNumber>
+<AccountCode>""</AccountCode>   
+<JointAccountHolderName>""</JointAccountHolderName>
+<InterestDate>""</InterestDate>
+</Event>

@@ -1,0 +1,18 @@
+<Event>
+<EventCode>D1-008</EventCode>
+<ProductName>Balance top-up encouragement (only in deposit window)</ProductName>
+<AccountNumber>---8*DFGSDnnnn##@@1</AccountNumber>
+<Amount>50000000000000</Amount>
+<TransactionCode>00001</TransactionCode>
+<EndDate>""</EndDate>
+<HoursLeft>5</HoursLeft>
+<ExeededAmount>""</ExeededAmount>
+<OriginatingBank>""</OriginatingBank>
+<ExternalBankDetails>""</ExternalBankDetails>
+<InvitationCode>""</InvitationCode>
+<DeviceType>""</DeviceType>
+<DeviceId>""</DeviceId>
+<MemberNumber>""</MemberNumber>
+<AccountCode>""</AccountCode>   
+<JointAccountHolderName>""</JointAccountHolderName>
+</Event>

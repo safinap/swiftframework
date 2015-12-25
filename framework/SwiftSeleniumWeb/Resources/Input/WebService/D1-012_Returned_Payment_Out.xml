@@ -1,0 +1,8 @@
+<Event>
+<EventCode>D1-012</EventCode>
+<ProductName>Returned payment out</ProductName>
+<AccountNumber>AC1</AccountNumber>
+<Amount>10000000</Amount>
+<TransactionCode>000000003</TransactionCode>
+<EndDate>””</EndDate>
+</Event>

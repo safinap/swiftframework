@@ -1,0 +1,8 @@
+<Event>
+<EventCode>D1-004</EventCode>
+<ProductName>Account information</ProductName>
+<AccountNumber>AC$$$@!(* 1</AccountNumber>
+<Amount>""</Amount>
+<TransactionCode>00 ff0 ff01</TransactionCode>
+<EndDate>””</EndDate>
+</Event>

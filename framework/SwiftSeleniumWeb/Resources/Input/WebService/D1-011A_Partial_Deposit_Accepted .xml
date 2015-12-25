@@ -1,0 +1,8 @@
+<Event>
+<EventCode>D1-011A</EventCode>
+<ProductName>Partial deposit accepted</ProductName>
+<AccountNumber>AC1</AccountNumber>
+<Amount>10000000</Amount>
+<TransactionCode>000000001</TransactionCode>
+<EndDate>””</EndDate>
+</Event>

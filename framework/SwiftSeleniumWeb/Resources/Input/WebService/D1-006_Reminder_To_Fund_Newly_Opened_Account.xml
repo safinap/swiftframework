@@ -1,0 +1,8 @@
+<Event>
+<EventCode>D1-006</EventCode>
+<ProductName>Reminder to fund newly opened account</ProductName>
+<AccountNumber>AC1</AccountNumber>
+<Amount>5000</Amount>
+<TransactionCode>00001</TransactionCode>
+<EndDate>””</EndDate>
+</Event>

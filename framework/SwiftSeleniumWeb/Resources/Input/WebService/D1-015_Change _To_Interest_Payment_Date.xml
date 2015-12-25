@@ -1,0 +1,19 @@
+<Event>
+<EventCode>D1-015</EventCode>
+<ProductName>Change to interest payment date (monthly products only)</ProductName>
+<AccountNumber>---8*DFGSDnnnn##@@1</AccountNumber>
+<Amount>""</Amount>
+<TransactionCode>000asgjhasg01</TransactionCode>
+<EndDate>""</EndDate>
+<HoursLeft>""</HoursLeft>
+<ExeededAmount>""</ExeededAmount>
+<OriginatingBank>""</OriginatingBank>
+<ExternalBankDetails>""</ExternalBankDetails>
+<InvitationCode>""</InvitationCode>
+<DeviceType>""</DeviceType>
+<DeviceId>""</DeviceId>
+<MemberNumber>""</MemberNumber>
+<AccountCode>""</AccountCode>   
+<JointAccountHolderName>""</JointAccountHolderName>
+<InterestDate>12/10/2016</InterestDate>
+</Event>

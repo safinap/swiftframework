@@ -1,0 +1,8 @@
+Iteration,TestCaseID,TransactionType,CurrentDate,RowType,Status,PassCount,FailCount
+"Cycle1","TM_TC2","VerifyRanorexVIP","2014/12/16 14:36:12","Header","PASS","","","TestCaseID","TransactionType","CurrentDate","FirstName","LastName","Gender"
+"Cycle1","TM_TC2","VerifyRanorexVIP","2014/12/16 14:36:12","Data","PASS","3","0","Sylvester","Stallone","Male"
+"Cycle1","TM_TC2","VerifyRanorexVIP","2014/12/16 14:36:12","Data","PASS","3","0","Elvis","Presley","Male"
+"Cycle1","TM_TC2","VerifyRanorexVIP","2014/12/16 14:36:12","Data","PASS","3","0","Marie","Curie","Female"
+"Cycle1","TM_TC2","VerifyRanorexVIP","2014/12/16 14:36:12","Data","PASS","3","0","Andre","Agassi","Male"
+"Cycle1","TM_TC2","VerifyRanorexVIP","2014/12/16 14:36:12","Data","PASS","3","0","Arnold","Schwarzenegger","Male"
+"Cycle1","TM_TC2","VerifyRanorexVIP","2014/12/16 14:36:12","Data","PASS","3","0","Marilyn","Monroe","Female"

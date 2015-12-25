@@ -1,0 +1,9 @@
+Iteration,TestCaseID,TransactionType,CurrentDate,RowType,Status,PassCount,FailCount
+"Cycle1","TC1","Shakespeare_WS","2015/12/01 17:49:02","Field: Email_Notification","PASS","1","0","Hi Siddhesh Moharir, Congrats, you've opened your Savings Account. Thanks, Helen, Head of Customer Service"
+"Cycle1","TC1","Shakespeare_WS","2015/12/01 17:49:02","Field: TimeLine_Notification","PASS","1","0","Great news. You've opened your Savings Account."
+"Cycle1","TC1","Shakespeare_WS","2015/12/01 17:49:02","Field: Email_Channel","PASS","1","0","Email"
+"Cycle1","TC1","Shakespeare_WS","2015/12/01 17:49:02","Field: TimeLine_Channel","PASS","1","0","TimeLine"
+"Cycle1","TC1","Shakespeare_WS","2015/12/01 17:49:58","Field: Email_Notification","FAIL","0","1","FAIL|Hi Siddhesh Moharir, Congrats, you've opened your Savings Account. Thanks, Helen, Head of Customer Service|Hi Siddhesh Moharir, Congrats, you've opened your Savings Account. Thanks, Helen, Head of Customer Service123"
+"Cycle1","TC1","Shakespeare_WS","2015/12/01 17:49:58","Field: TimeLine_Notification","PASS","1","0","Great news. You've opened your Savings Account."
+"Cycle1","TC1","Shakespeare_WS","2015/12/01 17:49:58","Field: Email_Channel","PASS","1","0","Email"
+"Cycle1","TC1","Shakespeare_WS","2015/12/01 17:49:58","Field: TimeLine_Channel","PASS","1","0","TimeLine"
